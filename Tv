@@ -1,0 +1,97 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="TV Aberta",GLOBO 
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/42952.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="TV Aberta",GLOBO 
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/40514.ts
+#EXTINF:-1 tvg-id="SBT Goiania TV Serra Dourada" tvg-logo="https://i.imgur.com/gtsgGv4.png" group-title="TV Aberta",TV Serra Dourada - SBT (GO)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/gtsgGv4.png" group-title="TV Aberta",TV Cidade - SBT (PR)
+https://cdn-cdn-cidade.ciclano.io:1443/cdn-cidade/cdn-cidade/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/gtsgGv4.png" group-title="TV Aberta",TV Tibagi - SBT (PR)
+https://cdn-cdn-tibagi.ciclano.io:1443/cdn-tibagi/cdn-tibagi/playlist.m3u8
+#EXTINF:-1 tvg-id="Record" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2016/07/record-muda-programa%C3%A7%C3%A3o.jpg" group-title="TV Aberta", RECORD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta",RecordTV Rio
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta",RecordTV Rio HD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTV Belém" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta",RecordTV Belém
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta",RecordTV Brasília
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta",RecordTV Brasília HD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1059460990.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="https://i.imgur.com/rK6CsQz.png" group-title="TV Aberta",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1059460990.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="https://i.imgur.com/rK6CsQz.png" group-title="TV Aberta",Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
+#EXTINF:-1 tvg-id="Band Belém" tvg-logo="https://i.imgur.com/4dqClPb.png" group-title="TV Aberta",RBA TV - Band (PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/tbxAkds.png" group-title="TV Aberta",TV Brasil Central - Cultura (GO)
+http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/7YTjmiK.png" group-title="TV Aberta",Cultura do Pará
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/wKpiAOj.png" group-title="TV Aberta",CATVE - Cultura (PR)
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/Keb1A1J.png" group-title="TV Aberta",Canal 38 - Cultura (PR)
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="TV Aberta",TV Paraná Turismo - Cultura (PR)
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/Iis32zv.png" group-title="TV Aberta",TV Futuro - Cultura (RN)
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w709074158.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/9Dx6Yqy.png" group-title="TV Aberta",Unisul TV - Cultura (SC)
+https://hls.brasilstream.com.br/live/sitetv/sitetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cBhdDHm.png" group-title="TV Aberta",Sidy's TV
+https://canal4stream.sidys.com.br/canal4.m3u8
+#EXTINF:-1 tvg-logo="https://lirp.cdn-website.com/18121d94/dms3rep/multi/opt/LOGO+CANAL+RICOS+SEM+FUNDO-1920w.png" group-title="TV Aberta",Canal Ricos
+https://5d2c98775bafe.streamlock.net:443/8090/8090/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k6VvysK.png" group-title="Agronegócio",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-logo="https://i.imgur.com/44uV3rT.png" group-title="Agronegócio",Canal do Boi
+https://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zQeA5VS.png" group-title="Regional",TCM 10
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 6
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="5d815e489b315b154db2e053" tvg-logo="http://images.pluto.tv/channels/5d815e489b315b154db2e053/colorLogoPNG.png" group-title="Esportes em inglês: lutas",American Gladiators | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815e489b315b154db2e053/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f6-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=08cb0a01-f00b-498f-878b-0a06e2eeab1f&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="http://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Bellator MMA EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9874c6-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5114321f-0294-4640-9883-3009c1dfcc6b&userId=&serverSideAds=true
+#EXTINF:1 tvg-logo="https://imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Black Belt
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=749
+#EXTINF:-1 tvg-id="5fac425f949b4600079938f3" tvg-logo="http://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Boxing - Pluto TV | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a97a1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cb2e5257-7800-4777-83c0-17bcb8802968&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/channel-fight.png" group-title="Esportes em inglês: lutas",Channel Fight
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5f0ff265d71dcb00449ec02a&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5f0ff265d71dcb00449ec02a
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="\https://provider-static.plex.tv/epg/images/ott_channels/logos/combatgo_logo_dark.png" group-title="Esportes em inglês: lutas",Combat Go | Pluto TV EUA 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=726&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=60affff8623f2f002c5bb4a1&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/combatgo_logo_dark.png" group-title="Esportes em inglês: lutas",Combat Go | EUA 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=671
+#EXTINF:-1 tvg-id="5bb1ac3e268cae539bcedb07" tvg-logo="http://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Combate World | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94a431-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2bbd94dc-bee9-4891-92d0-dfe9d836361c&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="5812b0f2237a6ff45d16c3f9" tvg-logo="http://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Fight - Pluto TV | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92f680-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=261c4098-55b0-4ed8-9969-86a7f250c44c&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="5ad8d659fd87eb3a2717afc9" tvg-logo="https://images.pluto.tv/channels/5ad8d659fd87eb3a2717afc9/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Fight - Pluto TV | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d659fd87eb3a2717afc9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/fightnetwork_logo_dark.png" group-title="Esportes em inglês: lutas",Fight Network | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=606605549dbfca002d2ae877&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=606605549dbfca002d2ae877
+#EXTINF:-1 tvg-id="5417a212ff9fba68282fbf5e" tvg-logo="http://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Glory Kickboxing | Canadá 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e71e49f0-6a72-11eb-87d7-6fba7c7cde7d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9a116e69-0c7f-4263-8249-90d0c48a5f55&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="5ad8d6f5e738977e2c310949" tvg-logo="https://images.pluto.tv/channels/5ad8d6f5e738977e2c310949/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Glory Kickboxing | Reino Unido 🇬🇧
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d6f5e738977e2c310949/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Impact Wrestling | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9392c1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21813e80-236f-45f4-9c52-7c7f499324b4&userId=&serverSideAds=true
+ 
+#EXTINF:-1 tvg-id="5fac431fc1ffbc0007e6b6a7" tvg-logo="http://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Pro Wrestling | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a97a2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d9dca527-d6f1-4d92-b3aa-ace8fcf160d1&userId=&serverSideAds=true
+ 
+ 
+ 
+ 
