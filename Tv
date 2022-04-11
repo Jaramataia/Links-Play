@@ -22,6 +22,7 @@ https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 #EXTINF:-1 tvg-id="RecordTV Brasília" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta",RecordTV Brasília HD
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="https://i.imgur.com/rK6CsQz.png" group-title="TV Aberta",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1059460990.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="https://i.imgur.com/rK6CsQz.png" group-title="TV Aberta",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1059460990.m3u8
