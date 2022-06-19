@@ -60,6 +60,20 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 6
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+----INFANTIL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLxIpHS.png" group-title="Infantil",Cartoonito
+http://45.232.196.7:5000/live/CARTOONITO/720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELBHHzJ.png" group-title="Infantil",Clubinho Fun
+http://cdn.connectbr.com.br/Clubinho/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idY9saN.png" group-title="Infantil",Discovery Kids
+http://45.232.196.7:5000/live/DISCKIDS/720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bTHozRe.png" group-title="Infantil",Nickelodeon
+http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="Infantil",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Infantil",Tooncast
+http://cdn.connectbr.com.br/Tooncast/index.m3u8
+
  
 #EXTINF:-1 tvg-id="5d815e489b315b154db2e053" tvg-logo="http://images.pluto.tv/channels/5d815e489b315b154db2e053/colorLogoPNG.png" group-title="Esportes em inglês: lutas",American Gladiators | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815e489b315b154db2e053/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f6-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=08cb0a01-f00b-498f-878b-0a06e2eeab1f&userId=&serverSideAds=true
