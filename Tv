@@ -5,6 +5,9 @@
 #EXTINF:-1,TV Globo Bhaia
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 
+#EXTINF:-1,TV Globo Bhaia
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+
 #EXTINF:-1,Band Mais
 https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8
 
