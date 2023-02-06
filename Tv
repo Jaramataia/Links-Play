@@ -148,38 +148,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b
 #EXTINF:-1 group-title="INFANTIL",Nick Jr. Club
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 group-title="FILME",Classique TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-
-#EXTINF:-1 group-title="FILME",Classique Western TV
-https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
-
-#EXTINF:-1 group-title="FILME",DarkFlix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-
-#EXTINF:-1 group-title="FILME",Star Channel
-http://187.85.237.3:8220/ipvt_002
-
-#EXTINF:-1 group-title="CINESKY",Sky Cinema (01)
-https://tinyurl.com/FORMIGAtv12122022/20.m3u8
-#EXTINF:-1 group-title="CINESKY",Sky Cinema (02)
-https://tinyurl.com/FORMIGAtv12122022/21.m3u8
-#EXTINF:-1 group-title="CINESKY",Sky Cinema (03)
-https://tinyurl.com/FORMIGAtv12122022/22.m3u8
-#EXTINF:-1 group-title="CINESKY",Sky Cinema (04)
-https://tinyurl.com/FORMIGAtv12122022/23.m3u8
-#EXTINF:-1 group-title="CINESKY",Sky Cinema (05)
-https://tinyurl.com/FORMIGAtv12122022/24.m3u8
-#EXTINF:-1 group-title="CINESKY",Sky Cinema (06)
-https://tinyurl.com/FORMIGAtv12122022/25.m3u8
-#EXTINF:-1 group-title="CINESKY",Sky Cinema (07)
-https://tinyurl.com/FORMIGAtv12122022/26.m3u8
-#EXTINF:-1 group-title="CINESKY",Sky Cinema (08)
-https://tinyurl.com/FORMIGAtv12122022/27.m3u8
-#EXTINF:-1 group-title="CINESKY",Sky Cinema (09)
-https://tinyurl.com/FORMIGAtv12122022/28.m3u8
-#EXTINF:-1 group-title="CINESKY",Sky Cinema (10)
-https://tinyurl.com/FORMIGAtv12122022/29.m3u8
 
 #EXTINF:-1 group-title="DOC",History 2
 http://cdn.connectbr.com.br/h2/playlist.m3u8
