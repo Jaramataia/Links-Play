@@ -1,88 +1,592 @@
-
-
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BNjgyMTdhNGMtNzkxMS00MWIzLTliZTEtNjdjZGE1N2I4OTZkXkEyXkFqcGdeQXVyMzUxMzg0OTE%40._V1_QL75_UY281_CR14%2C0%2C190%2C281_-337x500.jpg", Wine Creek (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F43868472A90FC60DE6CB2D6DF66F526F56E2A67&dn=Wine.Creek.2021.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BYmM5ZTVkZjAtMTRiNC00NmQ5LTkzOWUtYTc4NTk0NTQ1NTJiXkEyXkFqcGdeQXVyMTE3NTg3Njg3._V1_-337x500.jpg", Uktena, the Horned Monstrosity (2022)
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FF3601B7386EF53BBD942178892FCAC8060B23D0&dn=Uktena.The.Horned.Monstrosity.2021.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BZGVjZGJkM2UtZjI1Zi00Mjc1LTg0MDYtMDgyN2I0ZmEwMjE5XkEyXkFqcGdeQXVyMTI5OTMzODE1._V1_FMjpg_UX1000_-337x500.jpg", The Unintended Sequel (2022)
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8C8031F9E86C2D9341292F7227DF7FEBD1DB7B51&dn=The.Unintended.Sequel.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BYTY3Mzg3ZTItODIzZC00MmNhLWIyZjUtMzg2ODhmZTBhNGFkXkEyXkFqcGdeQXVyOTMzOTMzMTg%40._V1_FMjpg_UX1000_-337x500.jpg", Among the Living (2022)
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9CA37C7BD06D2E1F1B38E07A764BE5AD4D9A2D26&dn=Among.the.Living.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BZjA0NWI2YjktZGRjMS00NDBmLTkyNTEtZmUzZjJiMTcwNmE3XkEyXkFqcGdeQXVyMzU5NzU5OQ%40%40._V1_FMjpg_UX1000_-337x500.jpg", Whisper (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A76C48A72999F02549DB02A85103A6E6E231BA3D&dn=Whisper.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BMDJjOTk0ZDQtZmNlNi00YmUzLThlZTktNjI1ZjhlMjI4NTUwXkEyXkFqcGdeQXVyMjg4OTY0OQ%40%40._V1_FMjpg_UX1000_-337x500.jpg", It Crawls Beneath (2022)
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C05CD26777106C91E0052E63E85B68A980AE61D2&dn=They.Crawl.Beneath.2022.1080p.BluRay.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BNmJiNGE4M2ItNmQxYi00NTE4LThkYzUtMzljZmQ2ZTUzN2IwXkEyXkFqcGdeQXVyNDgyNzAxMzY%40._V1_FMjpg_UX1000_-337x500.jpg", Requiem for a Scream (2022)
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A70B44001217F7FA2B1484602BDC6124B99E827&dn=Requiem.For.A.Scream.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BOWJhMTdjN2EtZWIzOC00ZmQ4LThhZjQtZTNkOTlmYzk1NTM3XkEyXkFqcGdeQXVyMTM0MjEyNzYw._V1_-337x500.jpg", Bad Bones (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03EDC9E552C38312F638A47B5C7569BD2EE2F3F9&dn=Bad.Bones.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BMmZiZjQ0YTMtMzViZC00ODBiLWJkMWMtOGQwMzllZTViODM3XkEyXkFqcGdeQXVyMjU1MjgwNDM%40._V1_FMjpg_UX1000_-337x500.jpg", The Quantum Terror (2022) Torrent WEBRip 720p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44C382689F943008D71599D002AC2A2C0C8BD33B&dn=The.Quantum.Terror.2022.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/iwdm967w52-337x500.jpg", Jeepers Creepers: Reborn (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BAB8F14DAB0F9FD96CE1F889361E870ABA8261DB&dn=Jeepers.Creepers.Reborn.2022.720p.CAMRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BZjk2YmQyY2EtZTk3NC00ZGUzLTk4MWItY2UyODViN2MyOTg5XkEyXkFqcGdeQXVyMTY1NDQ5ODA%40._V1_FMjpg_UX1000_-337x500.jpg", The Red Book Ritual (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EDCD08BA5B5053E669F6C5A813136C43F4C861E7&dn=The.Red.Book.Ritual.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BMjM5YzNkYWMtNmUzMi00YzU2LWI1YWEtMzY3YzIxZjA5YzVmXkEyXkFqcGdeQXVyODc5Mjc4Nzg%40._V1_-337x500.jpg", House of Darkness (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ADF70940F494086C3636BD0AFD0E54C18E9A544B&dn=House.of.Darkness.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/2815007-337x500.jpg", Tom (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5ED148CA299556EE141759009F8888BF2E7DC32&dn=Tom.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BZjVhNTg4YzMtMTk4Ny00ZWYzLTg1NTEtMmM5NTA5MmZiZmRiXkEyXkFqcGdeQXVyNDg4NjQxMDI%40._V1_FMjpg_UX1000_-337x500.jpg", Where's Rose (2021) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3ABA4939DB10DFA9B4C8083335BEC9420B8ED4A&dn=Wheres.Rose.2021.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BMjA2MDY2NzY3Nl5BMl5BanBnXkFtZTgwNDQ3NDI4NjE%40._V1_-337x500.jpg", Goodnight Mommy (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52536A6CE73CEDAF73AF88DAB50A3A8203721050&dn=Goodnight.Mommy.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/c3497294441a1e392eced9820df22095-337x500.jpg", Speak No Evil (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:011D3B76BD5C5D842DF78901C0E1CF8E4DC0AEF9&dn=Speak.No.Evil.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BZDU3OTllYTUtY2I4OS00Y2U3LWI2YmItNTZiNzdlZGVmMWEzXkEyXkFqcGdeQXVyMTMxMDg4NTMx._V1_FMjpg_UX1000_-337x500.jpg", The Hoot Owl (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0FB1182F40504FFE470267634C65A556BFCADAE1&dn=The.Hoot.Owl.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BOGIxYmZmODgtMWYzNy00NjZlLTkwOTctNmE0YzI5NWVkYzNmXkEyXkFqcGdeQXVyMjM4MTU4NjQ%40._V1_FMjpg_UX1000_-337x500.jpg", Amityville Scarecrow (2021) Torrent WEBRip 720p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0D0B88C79155A14822C7E5054F202A6B69EEE1F9&dn=Amityville.Scarecrow.2021.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/b4bd467f080c7c8feeabb6c4b242dfa9-337x500.png", Beware The Hitchhiker (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DC8C23BA429337E32D339128A7D895C06E3BD5CA&dn=Beware.The.Hitchhiker.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BM2Q1YzM2MmQtNzM4MC00YTIyLTg3ZjktOTFkNDE4MDBiZTZjXkEyXkFqcGdeQXVyMDE0MDYwOQ%40%40._V1_-337x500.jpg", The Great Awakening (2022) Torrent WEBRip 720p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FE03F0508AD78A5DF8E89440F15F60E7551B5DE6&dn=The.Great.Awakening.2022.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BYWY0MTg2NDctMTkxNC00ZmVhLWI0ZTUtNmVmYjllZDEyODJjXkEyXkFqcGdeQXVyMTQ2OTU2OTQ%40._V1_-337x500.jpg", Zombae (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F3E06A74544B2F6741AA3F0716CFF6F353C83A0&dn=Zombae.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/tiny-cinema-poster-337x500.jpg", Tiny Cinema (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8FDC9A1314681924D1179A3A9EDFCAA29D178060&dn=Tiny.Cinema.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BZjgwNDA3MmUtMTQ3Yy00ZDFmLTgwMTktNTBlMTQ3ZTI5MjYxXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_-337x500.jpg", Orphan: First Kill (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:257F974BBFD04BA6802D6BB11ADCFAFEBCD6EE32&dn=Orphan.First.Kill.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BODE1NjRiYjUtZmQwYi00Yzg5LWE1YWUtZjRkZmMzN2FiMTBmXkEyXkFqcGdeQXVyNjE2MzI5ODM%40._V1_-337x500.jpg", Margaux (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9270850A34BDDED40CA335E83BB957857D5EE2A&dn=Margaux.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BYjkxNTBmYjgtYjZkYy00MGNhLWFiOGEtZjc0NTllMzUyMmFjXkEyXkFqcGdeQXVyODM0MjI4OTg%40._V1_FMjpg_UX1000_-337x500.jpg", Jikirag (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24FCD1271D52B3BD318FB4063D0E2ACF347DCDCC&dn=Jikirag.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BZWQ4ZjIwNmYtMTQ1YS00NWRkLWE5MjktMGI4Yjc0ODVlZTg3XkEyXkFqcGdeQXVyMTM1Njg2NTkz._V1_-337x500.jpg", It Hatched (2021) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4ACD51B1108EBDEDDD6B57CA06F939DD6C673A8&dn=It.Hatched.2021.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BZGJjNjA1ODYtOTY1Mi00YTQzLTg4ZmQtZTc0NWQ4M2QwNTU0XkEyXkFqcGdeQXVyMzMzMDQ3MzY%40._V1_FMjpg_UX1000_-337x500.jpg", The Harbinger (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:961D3CA4F9D2CB01D1FF32530DBFD0658F9E04D1&dn=The.Harbinger.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
-
-#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/SomethingInTheWoods_Keyart_2x3_2000x3000-932x1398-337x500.jpg", Something in the Woods (2022) Torrent WEBRip 1080p
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B2F5981D59624EE008B30BD20B663959FA5D19C&dn=Something.in.the.Woods.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zcC3YIyajlm2A4sYp4WHNiI1An.jpg",Meus Vizinhos São um Terror (1989)
+http://6p.vc:80/movie/8896882871/8290570786/67872.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CXxHpj2ixCQBPOk9Z3m00dybmb.jpg",Minha Familia Já Te Ama! (2016)
+http://6p.vc:80/movie/8896882871/8290570786/67873.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDnKO3Dff1p1MQ7dryLRVXIJyrs.jpg",minha irma arrasa (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67874.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cF5v8N0wMALMcgEHpBZHyYQZDl.jpg",Minha Mãe é Uma Peça: O Filme (2013)
+http://6p.vc:80/movie/8896882871/8290570786/67875.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDApDWU6r9zxk9MZLc6rfnBb3vu.jpg",Minha Mãe é Uma Peça 2 (2016)
+http://6p.vc:80/movie/8896882871/8290570786/67876.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hqz44MBvh9ZknMa34M8Gx7jb5y.jpg",Minhas Adoráveis Ex-Namoradas (2009)
+http://6p.vc:80/movie/8896882871/8290570786/67877.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phFkVLykFPtxqkd3c7HLkb2zGuF.jpg",Missão Quase Impossível (2010)
+http://6p.vc:80/movie/8896882871/8290570786/67878.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xltCN7p2dsrNMcGWEifcCKDMoR4.jpg",Miss Simpatia (2000)
+http://6p.vc:80/movie/8896882871/8290570786/67879.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etbe0OUfPmW1eXDB5rPXrOsKQ4S.jpg",Mistério no Mediterrâneo (2019)
+http://6p.vc:80/movie/8896882871/8290570786/67881.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg",Morte no Funeral (2010)
+http://6p.vc:80/movie/8896882871/8290570786/67882.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUOX7ATkXq1R5QpmIXZ5rXT9NOX.jpg",Mudança de Hábito (1992)
+http://6p.vc:80/movie/8896882871/8290570786/67883.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Zl3wQzgqG4lnA4TfFRU7W7bpMA.jpg",Mudança de Hábito 2: Mais Loucuras no Convento (1993)
+http://6p.vc:80/movie/8896882871/8290570786/67884.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpyl7xI1SEb8WgC5PeRUQcw19cx.jpg",Muita Calma Nessa Hora (2010)
+http://6p.vc:80/movie/8896882871/8290570786/67885.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m22N5QelYWptGUIYHl76RcOg2yn.jpg",Muita Calma Nessa Hora 2 (2014)
+http://6p.vc:80/movie/8896882871/8290570786/67886.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGMjgXFGfbCFiAlfPrfevGoPyfs.jpg",Muito Bem Acompanhada (2005)
+http://6p.vc:80/movie/8896882871/8290570786/67887.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKT9Mv1SB7pW9TLOcmhcm9BH4Pc.jpg",Muito Louca (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67888.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuYTCTkR2kWGFYEhvehIqQeOJJ7.jpg",Mulheres ao Ataque (2014)
+http://6p.vc:80/movie/8896882871/8290570786/67889.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1juJkwaqoJShq5NhdC7q7sBGApa.jpg",Nada a Esconder (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67890.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxin8yPKsLpbnJ7wx8Wxkwouk4.jpg",Namoro ou Liberdade (2014)
+http://6p.vc:80/movie/8896882871/8290570786/67891.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNYxvulrRn2nJrfBDVNOCxGVJUi.jpg",Nancy Drew e a Escada Secreta (2019)
+http://6p.vc:80/movie/8896882871/8290570786/67892.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nZYy3vVLaU3ymJAbTvYgFpCyRq.jpg",Não Aceitamos Devoluções (2013)
+http://6p.vc:80/movie/8896882871/8290570786/67893.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSUuaJZ9phWcyYIJkavoSdeRhxd.jpg",Não Vai Dar (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67894.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EpsyfvwwR2jhbIUElZ62ruDwOH.jpg",Negócios Fora de Controle (2015)
+http://6p.vc:80/movie/8896882871/8290570786/67895.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qyF3ePdhQeBPZmNbhcAkYyBGwb.jpg",Ninguém Segura Esse Bebê (1994)
+http://6p.vc:80/movie/8896882871/8290570786/67897.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIKUAFQfSCs7PMGyF1UlLNmXH6Q.jpg",No Pique de Nova York (2004)
+http://6p.vc:80/movie/8896882871/8290570786/67898.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sExfA7YUSXQJRGmOZ9v52lxd16I.jpg",Norbit (2007)
+http://6p.vc:80/movie/8896882871/8290570786/67899.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJoFG7M9edUIkh8y6tYnLCRHZyO.jpg",Nossa Vida com Cães (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67900.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xpdwyko6HUqWw090UvLYSsbVqy.jpg",Nosso Ex-Marido (2017)
+http://6p.vc:80/movie/8896882871/8290570786/67901.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnDtm74JkcAlqzPaTfO0ChwRNZJ.jpg",Nós Somos os Campeões (1992)
+http://6p.vc:80/movie/8896882871/8290570786/67902.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqFUYtRJimLwDg5RwQnjYE8Tflo.jpg",Nosso Último Verão (2019)
+http://6p.vc:80/movie/8896882871/8290570786/67903.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPv9h1Dig3uRG0Lm9r29gCzT3kc.jpg",O Amor é Cego (2001)
+http://6p.vc:80/movie/8896882871/8290570786/67904.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mROY2b1CeX9gAWcCxStERQie5X.jpg",O Amor Não Tira Férias (2006)
+http://6p.vc:80/movie/8896882871/8290570786/67905.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8eFedsS7vQCZCS8WGp5n1bVD0q.jpg",O Auto da Compadecida (2000)
+http://6p.vc:80/movie/8896882871/8290570786/67906.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNFjUdDmyJmAST6qOz2ie10UwTP.jpg",O Candidato Honesto (2014)
+http://6p.vc:80/movie/8896882871/8290570786/67907.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bbM1DuAlaoxWxhDGiVnfH2ubMc.jpg",O Candidato Honesto 2 (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67908.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvHzkK0VvKQ3noByKaRnKB2VYYt.jpg",O Chefe (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67909.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yTeBlAjG7qAQqEzQIO9b1k62b.jpg",O Clube dos Canibais (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67910.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thJQ8l4G7SipYicKtK8zinuyxQO.jpg",O Date Perfeito (2019)
+http://6p.vc:80/movie/8896882871/8290570786/67911.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT45oWEZVntdoibp4oEXE4ngTTa.jpg",O Diário da Princesa (2001)
+http://6p.vc:80/movie/8896882871/8290570786/67913.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MoDnvPW64Sfw3QZ6ADnCYopnTv.jpg",O Diário da Princesa 2: Casamento Real (2004)
+http://6p.vc:80/movie/8896882871/8290570786/67914.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aU0Ayk89wKyrsvC4SyT5Ht8IRM3.jpg",O Ditador (2012)
+http://6p.vc:80/movie/8896882871/8290570786/67915.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rqZ0O4Rc6ckFYqx8ECD0LfchJj.jpg",O Dono da Festa (2002)
+http://6p.vc:80/movie/8896882871/8290570786/67916.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kNpSdSAHiXxjfezIOAr1nR7lFK.jpg",O Doutor da Felicidade (2017)
+http://6p.vc:80/movie/8896882871/8290570786/67917.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tANHZFRpYfn89Zoe63sQPO6rlOs.jpg",O  Estado das Coisa (1982)
+http://6p.vc:80/movie/8896882871/8290570786/67918.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zMUKCBq1OqMXFnNSLMVT0MgHXz.jpg",O Fabuloso Destino de Amélie Poulain (2001)
+http://6p.vc:80/movie/8896882871/8290570786/67919.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hk67XO1Fa1TVU3hmdCMqsnil1Ox.jpg",O Fada do Dente (2010)
+http://6p.vc:80/movie/8896882871/8290570786/67920.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMIV7ScmesTEfAkVlWWLtsLPV1d.jpg",O Grande Lebowski (1998)
+http://6p.vc:80/movie/8896882871/8290570786/67921.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yywHrnb0MEyXQ7OOCCTSRHQDsbt.jpg",O Grinch (2000)
+http://6p.vc:80/movie/8896882871/8290570786/67922.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mscdZrk8k6VTVOgbVF5IpsaA8sK.jpg",Ramona! (2019)
+http://6p.vc:80/movie/8896882871/8290570786/67923.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3PcsQAEOMiILnEn6bRNKgSrWaX.jpg",O Homem Bicentenário (1999)
+http://6p.vc:80/movie/8896882871/8290570786/67924.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFIgLPssMgo9rSNQGWQOWzh4iG0.jpg",O Homem das Cavernas (1981)
+http://6p.vc:80/movie/8896882871/8290570786/67925.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXIlXNqqSTusKiJqPbdn4LHqFJ0.jpg",O Homem Que Desafiou o Diabo (2007)
+http://6p.vc:80/movie/8896882871/8290570786/67926.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cXqKpHo2vydjnaYOGbYrKbqXk8.jpg",Oitava Série (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67927.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60BmhUQqhJ0FwL7XxaNfNqpwFHb.jpg",Mascara (1987)
+http://6p.vc:80/movie/8896882871/8290570786/67928.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uB74TtG5kxL5SsGRfQjcxgvZ3uE.jpg",O Melhor Amigo da Noiva
+http://6p.vc:80/movie/8896882871/8290570786/67929.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvOoifo9isVUHixAbSNPcLIGJuf.jpg",O Melhor Presente é o Amor (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67930.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NrJ2OCTtTlcgGJA2PBNgnAi6UB.jpg",O Menino de Ouro (2011)
+http://6p.vc:80/movie/8896882871/8290570786/67931.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fViD1rsvp95an7PN0oj3dqGIk0.jpg",O Mentiroso (1997)
+http://6p.vc:80/movie/8896882871/8290570786/67932.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZqBcpueADR7HJsPkbDLngAE8d3.jpg",O Noivo da Minha Melhor Amiga (2011)
+http://6p.vc:80/movie/8896882871/8290570786/67933.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70mP0nwUmtaL44Y8aoUn6uBjJON.jpg",O Pacote (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67934.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhz8suBlc45xIyanIIAg7DmWHCB.jpg",O Pequenino (2006)
+http://6p.vc:80/movie/8896882871/8290570786/67935.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztIUJ94m2lH7G2utUJ9AzJhTSvr.jpg",Operação Cupido (1998)
+http://6p.vc:80/movie/8896882871/8290570786/67936.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oJJcfYdmI5J3F7x0ePjyRcp6Wc.jpg",O Pestinha (1990)
+http://6p.vc:80/movie/8896882871/8290570786/67937.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdrKKX5f3Ra1wWtYkbu43ty80ca.jpg",O Pestinha 2 (1991)
+http://6p.vc:80/movie/8896882871/8290570786/67938.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PJTJNxpf9Z3yYCZBrOPOQCar3Y.jpg",O Primeiro Passo (2016)
+http://6p.vc:80/movie/8896882871/8290570786/67939.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lEZUKwiSvXBPwwvdVh5Fxbxumq.jpg",O Professor Aloprado (1963)
+http://6p.vc:80/movie/8896882871/8290570786/67941.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/widMJZSqK0xEVSnkU8Cj2mJg3YM.jpg",Oscar - Minha Filha quer Casar (1991)
+http://6p.vc:80/movie/8896882871/8290570786/67943.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3hUfBBfkdH91A1xxvpWO3j5Ur7.jpg",Os Caubóis Do Apocalipse (2016)
+http://6p.vc:80/movie/8896882871/8290570786/67944.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAKq7AS4CZVZDlgfLR2fLO38Lng.jpg",Os Delírios de Consumo de Becky Bloom (2009)
+http://6p.vc:80/movie/8896882871/8290570786/67945.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDcEF2jTOj5Enooa1flPyAVpCSb.jpg",Os Deuses Devem Estar Loucos (1980)
+http://6p.vc:80/movie/8896882871/8290570786/67946.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1VqUvtd2Cli7Rfd6sHiQrD8Gt9.jpg",Os Deuses Devem Estar Loucos 2 (1989)
+http://6p.vc:80/movie/8896882871/8290570786/67947.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eV50NCjkJpoX5rkrDZTpF5ByRxI.jpg",Os Deuses Devem Estar Loucos 3 (1991)
+http://6p.vc:80/movie/8896882871/8290570786/67948.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbmaUvSjC81ngZ5BkbxAc6p8U3I.jpg",Os Estagiários (2004)
+http://6p.vc:80/movie/8896882871/8290570786/67949.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6vywmyIO9DaAgIi2uHuiqsOBta.jpg",Os Garotos da Minha Vida (2001)
+http://6p.vc:80/movie/8896882871/8290570786/67950.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRuQeH1frRvw02InWVfIrJhi4ZF.jpg",Os Goonies (1985)
+http://6p.vc:80/movie/8896882871/8290570786/67951.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHmD5ziiVvOM1femGTazj4bfkGK.jpg",O Shaolin do Sertão (2016)
+http://6p.vc:80/movie/8896882871/8290570786/67952.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rm3Jl8avuxnyjxeElsd19qDgofx.jpg",Os Homens São de Marte... E É Pra Lá Que Eu Vou (2014)
+http://6p.vc:80/movie/8896882871/8290570786/67953.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/he9ef4H9RZmxB8pdUXIX9ib8aRh.jpg",O Show de Truman - O Show da Vida (1998)
+http://6p.vc:80/movie/8896882871/8290570786/67954.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PuLtiji3ZN6o2Uan9SqDl8wdYX.jpg",Os Parças (2017)
+http://6p.vc:80/movie/8896882871/8290570786/67955.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5CQex1Y1OAidPIhd3HJAxA5PPY.jpg",Os Pinguins do Papai (2011)
+http://6p.vc:80/movie/8896882871/8290570786/67956.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2etVXcWUsoaWvOlRt3bSXIOrW5P.jpg",O Terminal (2004)
+http://6p.vc:80/movie/8896882871/8290570786/67957.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djXXkS8UiC3QjltM6X16qAUEFy8.jpg",O Último Desejo (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67959.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KU7HqRPbl4ZTELz2uRDQYCLSOq.jpg",O Último Hotel (2016)
+http://6p.vc:80/movie/8896882871/8290570786/67960.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QEVz90ufqCdKcaKFwTipmq2VmD.jpg",Outro Conto da Nova Cinderela (2008)
+http://6p.vc:80/movie/8896882871/8290570786/67961.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3RwcNpLTdum99fTWcMazEwSd4v.jpg",O Melhor Verão da Minha Vida (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67962.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMIpsbNCWhFvpe0l6ozns88QSfJ.jpg",As Aventuras de Paddington 2
+http://6p.vc:80/movie/8896882871/8290570786/67964.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwnKLn9tiQJwiLKxxKJB8QMUJ2m.jpg",Pai em Dose Dupla (2015)
+http://6p.vc:80/movie/8896882871/8290570786/67965.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WW6sV8oWdn1f6KCayfx3whqN5b.jpg",Pai em Dose Dupla 2 (2017)
+http://6p.vc:80/movie/8896882871/8290570786/67966.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0WenY1y4RF6PZPDJUecakvfYyb.jpg",Papai Noel às Avessas 2 (2016)
+http://6p.vc:80/movie/8896882871/8290570786/67967.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v83MAkGH8jF8uNhJhKgADqw3Xup.jpg",Para o que Der e Vier (2013)
+http://6p.vc:80/movie/8896882871/8290570786/67968.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghcDEzN43GGUxduTJgNhKDn6a3I.jpg",Para Todos os Garotos que Já Amei (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67969.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AEdI5AmRVSLIhNe2smPGfKMyb0.jpg",Te Amo (2006)
+http://6p.vc:80/movie/8896882871/8290570786/67970.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5skEIy4mf93tdQhughe5PRMyJWH.jpg",Land Ho! (2014)
+http://6p.vc:80/movie/8896882871/8290570786/67971.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fiVEMx2cBdhpQu2WkSfk1l334Qe.jpg",Patch Adams - O Amor É Contagioso (1998)
+http://6p.vc:80/movie/8896882871/8290570786/67972.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bX8TP2qRWh2OcmeUHGn1ENDkCu6.jpg",Paul: O Alien Fugitivo (2011)
+http://6p.vc:80/movie/8896882871/8290570786/67973.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQODJhuCH1n8YbasIknMHhmplwG.jpg",Penetras Bons de Bico (2005)
+http://6p.vc:80/movie/8896882871/8290570786/67975.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10eAWCOBnTggxsHvAULoL8ZsfAs.jpg",Pequena Grande Vida (2017)
+http://6p.vc:80/movie/8896882871/8290570786/67976.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0u8ecPEgfMuDDmZRu1uo9lpBAI.jpg",Pequenos Milagres (2010)
+http://6p.vc:80/movie/8896882871/8290570786/67977.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slHP0lirODKWeXVAZ7Zca1EAXsd.jpg",Pequenos Guerreiros (1998)
+http://6p.vc:80/movie/8896882871/8290570786/67978.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbLhrGT6eci3mL6uPcnRqcVGWGN.jpg",Perfeita é a Mãe! (2016)
+http://6p.vc:80/movie/8896882871/8290570786/67979.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOt3nKRqJNbd8M6mHSUQRTYIQou.jpg",Perfeita é a Mãe 2 (2017)
+http://6p.vc:80/movie/8896882871/8290570786/67980.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oASzoTqt8LafgPIzfuzhgxV9SbJ.jpg",Permissão (2017)
+http://6p.vc:80/movie/8896882871/8290570786/67981.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tudQhTuHnhpoGx9dRnOPWYIGsM.jpg",Pérola no Paraíso (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67982.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIMTuViWlUGvmvAZSEOjz3n11NS.jpg",Plano Quase Perfeito (2017)
+http://6p.vc:80/movie/8896882871/8290570786/67983.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYqS2lRNNAhSHpTWGMCHfBlzjTz.jpg",Podres de Ricos (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67984.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0fok58kIjQoS7y3NK6sf5VzTXG.jpg",Policial em Apuros (2014)
+http://6p.vc:80/movie/8896882871/8290570786/67985.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSJG24PI4098LJQ0mEvNbRr01JF.jpg",Policial em Apuros 2 (2016)
+http://6p.vc:80/movie/8896882871/8290570786/67986.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4DRZfTqOlmzNWAvy4vcKWkgEGL.jpg",Ponto Cego (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67987.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRSoc1Fe1oIWxgRAdm882AiZ1O7.jpg",Senhor? (2011)
+http://6p.vc:80/movie/8896882871/8290570786/67988.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gdhlS9Pec01wuuoQxphdnifNNK.jpg",Professor Peso Pesado (2012)
+http://6p.vc:80/movie/8896882871/8290570786/67989.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ER5NBqdSuxnmOzAqmm9OGNGg7g.jpg",Projeto X: Uma Festa Fora de Controle (2012)
+http://6p.vc:80/movie/8896882871/8290570786/67990.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtX9jhxaDgJD5jtszVLuJeMK3l.jpg",Puro-Sangue (2017)
+http://6p.vc:80/movie/8896882871/8290570786/67992.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuNepY45BT7wqIJuQuFxgDelmvt.jpg",Quando em Roma (2010)
+http://6p.vc:80/movie/8896882871/8290570786/67993.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qds0JSt6DvKbu3I1JErMIP1Rk0U.jpg",Quando Nos Conhecemos (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67994.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZJ5DUWrVAsPc3GKkliYn4O88Kq.jpg",Quando Anjos Cantam (2013)
+http://6p.vc:80/movie/8896882871/8290570786/67995.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ix6shcuHnwlIYIWp3Kg3UTiCQWK.jpg",Quarteto Amigo (2018)
+http://6p.vc:80/movie/8896882871/8290570786/67996.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPm7pVVvTw8QYNbvnWU61tJvJZ6.jpg",Quase 18 (2016)
+http://6p.vc:80/movie/8896882871/8290570786/67997.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3W5jF8z5GkOHEslaIv89Ncp06J4.jpg",Quatro Vidas de um Cachorro (2017)
+http://6p.vc:80/movie/8896882871/8290570786/67998.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVwnbvKzzHvvTLYuvINbxE0cAWj.jpg",Queimando Tudo (1978)
+http://6p.vc:80/movie/8896882871/8290570786/67999.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxVNxM4rbJEpgvLC8Wt7tEW7yvm.jpg",Quem Encontra um Amigo Encontra um Tesouro (1981)
+http://6p.vc:80/movie/8896882871/8290570786/68000.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4mNHOpEbx68j0yaNdme6b07WPC.jpg",Quem Você Levaria para uma Ilha Deserta? (2019)
+http://6p.vc:80/movie/8896882871/8290570786/68001.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iidUaaaqvMF3jTjFhpG4jlMrnha.jpg",Recém-Casados (2003)
+http://6p.vc:80/movie/8896882871/8290570786/68004.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iidUaaaqvMF3jTjFhpG4jlMrnha.jpg",Recém-Casados (2003)
+http://6p.vc:80/movie/8896882871/8290570786/68005.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0tQyMdp3fy5ooUOQkJMd1fQKBJ.jpg",Não Case! (2009)
+http://6p.vc:80/movie/8896882871/8290570786/68006.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdAixXTNFbjUa2nBuHiSUXCaSko.jpg",Não Case! Parte II (2011)
+http://6p.vc:80/movie/8896882871/8290570786/68007.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SOnmTK0XoEcc7AoyXoce76to3Y.jpg",Não Case! Parte III (2013)
+http://6p.vc:80/movie/8896882871/8290570786/68008.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gl1uNEjLiBpOxChbLOPprxjy9an.jpg",Segurança de Shopping (2009)
+http://6p.vc:80/movie/8896882871/8290570786/68009.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJ52hQePdIAUVcDEIMmeTUr4vhY.jpg",Segurança de Shopping 2 (2015)
+http://6p.vc:80/movie/8896882871/8290570786/68010.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HKb56XPkoP2ig23Af6Ed7G6VKD.jpg",Segurando as Pontas (2008)
+http://6p.vc:80/movie/8896882871/8290570786/68011.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xD9MZQbIhqkcRxlB4StEkdOtLS.jpg",Sem Ganho (2013)
+http://6p.vc:80/movie/8896882871/8290570786/68012.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu8wPmz07wn5StEa6pkaI0c62sD.jpg",Sem Palavras (2009)
+http://6p.vc:80/movie/8896882871/8290570786/68013.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJLs2LxdVtWTG3ajHOOatr9geTG.jpg",Será que? (2013)
+http://6p.vc:80/movie/8896882871/8290570786/68014.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlyiCl8yHZdHdRSDjmDFDkH6AIk.jpg",Sex and the City - O Filme (2008)
+http://6p.vc:80/movie/8896882871/8290570786/68015.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VF29fCNyGyZIACutBINKaNfDvB.jpg",Sex and the City 2 (2010)
+http://6p.vc:80/movie/8896882871/8290570786/68016.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2A0udDaAgWyJdZBYQC3aPZvjx9M.jpg",Música e Amor (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68018.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvwUMAedTTXo8vzwO0lucDxke8S.jpg",Sexo Sem Compromisso (2011)
+http://6p.vc:80/movie/8896882871/8290570786/68019.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFJVyQaSgflMoE07ECQGA3vzpP8.jpg",Sexta-Feira Muito Louca (2003)
+http://6p.vc:80/movie/8896882871/8290570786/68020.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lReF53F8trkC68piGSfk0JVwWU.jpg",Sexta-feira em Apuros (1995)
+http://6p.vc:80/movie/8896882871/8290570786/68021.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAVxVGlxWFOV9ae4hPh9eau2PDk.jpg",Sexy por Acidente (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68022.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RsOmzEkJiSknIPOYe1AV9WTTDD.jpg",Show de Vizinha (2004)
+http://6p.vc:80/movie/8896882871/8290570786/68023.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjnHRySiVM4YcBYzjCxw344y9g.jpg",Sierra Burgess é uma Loser (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68024.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azlKLU8YN1dY5bknWVWprIdjc7X.jpg",Simplesmente Acontece (2014)
+http://6p.vc:80/movie/8896882871/8290570786/68025.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46C1Wafp67XZHuBMFQxMzzM4Z3K.jpg",Sim Senhor (2008)
+http://6p.vc:80/movie/8896882871/8290570786/68026.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4eBifSs4O8TUkAGbtg0DjRv9Hv.jpg",Sintonia de Amor (1993)
+http://6p.vc:80/movie/8896882871/8290570786/68027.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHjjIwhYZQ5TU6cZXaozSKHaVN5.jpg",Sobrevivendo ao Meu Pai (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68028.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BoehGhkQa776c3BsTrX0P0iGX8.jpg",Spot - Um Cão da Pesada (2001)
+http://6p.vc:80/movie/8896882871/8290570786/68031.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htMuH2YHr6tOWghIMo3lO0QgfwY.jpg",Status Update: Perfil dos Sonhos (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68032.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqr4CdX6eeA5UkVAJzKZMs7FeEw.jpg",Superbad: É Hoje (2007)
+http://6p.vc:80/movie/8896882871/8290570786/68033.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLViITv88pT7zP7MNeJmSkAqQRk.jpg",Deslize (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68034.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myIqVgGUEgIMFdD752azAak8rQ3.jpg",Tal Filha (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68035.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGevEtRsIcmniLwmtoUGJu8kyIi.jpg",Tá Rindo do Quê? (2009)
+http://6p.vc:80/movie/8896882871/8290570786/68036.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oBK74TfxR2M3dTiuqOlnYKEDKp.jpg",Ted (2012)
+http://6p.vc:80/movie/8896882871/8290570786/68037.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kblxjPVIXaIQ7iHo5b2LaBOEllD.jpg",Ted 2 (2015)
+http://6p.vc:80/movie/8896882871/8290570786/68038.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25KcoQPWwftvPzRRGGFB3I8Cnx8.jpg",Tem Alienígenas no meu Quarto (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68039.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssoDcs64PhVScvrnTvuiFtDufo2.jpg",Tenacious D: Uma Dupla Infernal (2006)
+http://6p.vc:80/movie/8896882871/8290570786/68040.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fyrr1TZ1c92BgpqwldiSwkZcki.jpg",Te Pego na Saída (2017)
+http://6p.vc:80/movie/8896882871/8290570786/68041.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3h6I8EZkN8W8RkYekuJiOcA3XDv.jpg",Te Peguei! (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68042.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yyYbzycVPZagZY4CiJKZ2eIMcs.jpg",Terapia de Casais para Amantes (2017)
+http://6p.vc:80/movie/8896882871/8290570786/68043.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ln9FO6R2vQvJuC023YnpVNxH3e.jpg",Terapia do Sexo (2013)
+http://6p.vc:80/movie/8896882871/8290570786/68044.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62dY02Dp8CFySosyrn1A4kBCYxu.jpg",Terror nos Bastidores (2015)
+http://6p.vc:80/movie/8896882871/8290570786/68045.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFPGheX6X4bt1ZqP1870MPlUvGu.jpg",The After Party (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68046.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOxuLkzG7TTUITEZm6kivuHmIiR.jpg",Tinha Que Ser Ele? (2016)
+http://6p.vc:80/movie/8896882871/8290570786/68047.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CDV8aXmYyxI5kUtQXMdBvQKNvp.jpg",Tio Drew (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68048.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joZlq9ccyJ8es0imyDmW0fZ4TOe.jpg",Toc Toc (2017)
+http://6p.vc:80/movie/8896882871/8290570786/68049.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1Z8hvlqgrIRD9GIZvWTo3z0nDl.jpg",Todo Mundo em Pânico (2000)
+http://6p.vc:80/movie/8896882871/8290570786/68050.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/549UoU38uoikbqgXG09rkkfIEWf.jpg",Todo Mundo em Pânico 2 (2001)
+http://6p.vc:80/movie/8896882871/8290570786/68051.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eGdcLg9dWxUv3dSY7tIz5EX9sz.jpg",Todo Mundo em Pânico 3 (2003)
+http://6p.vc:80/movie/8896882871/8290570786/68052.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odd3a1Tp0qsKVmAZbRbqlSPGppI.jpg",Todo Mundo em Pânico 4 (2006)
+http://6p.vc:80/movie/8896882871/8290570786/68053.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14mLzrL5d9ykeEy0L9RGSit6PXN.jpg",Todo Mundo em Pânico 5 (2013)
+http://6p.vc:80/movie/8896882871/8290570786/68054.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcA8udbEqqU5tPzsyqyZCDX6OwI.jpg",Todo Poderoso (2003)
+http://6p.vc:80/movie/8896882871/8290570786/68055.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8SnIlQoveEyJCJNSvXUmqIj3BI.jpg",Top Gang!: Ases Muito Loucos (1991)
+http://6p.vc:80/movie/8896882871/8290570786/68056.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFsxsZlEDo1rMemCLZiR06z9YlF.jpg",Tratamento de Choque (2003)
+http://6p.vc:80/movie/8896882871/8290570786/68058.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikQBghrihLICc1E9CjvNkek0MQw.jpg",Treinando o Papai (2007)
+http://6p.vc:80/movie/8896882871/8290570786/68059.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9OHrYrbtKy3dYUt1kEuUTNRAiP.jpg",Três Solteirões e uma Pequena Dama (1990)
+http://6p.vc:80/movie/8896882871/8290570786/68060.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iC1YEjWyh54a7xQuw1SuMfpXF8P.jpg",Três Solteirões e um Bebê (1987)
+http://6p.vc:80/movie/8896882871/8290570786/68061.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQcU0JuLKdRfkv0ZM2uFKeGuOGn.jpg",Trinity é o Meu Nome (1970)
+http://6p.vc:80/movie/8896882871/8290570786/68062.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quyjTvHPI4I05KX2iFmCX1Pih9c.jpg",Tudo Para Ficar com Ela (2014)
+http://6p.vc:80/movie/8896882871/8290570786/68063.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDI4YXBXolMYi15Qx2kClvdSERM.jpg",Tully (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68064.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/is4Pbf5UPtP5IxdtSFWkEIGvGUX.jpg",Uma Agente Muito Louca (2017)
+http://6p.vc:80/movie/8896882871/8290570786/68065.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38WN8MgS3qAhMtqymwgs4swQY1G.jpg",Uma Babá em Minha Vida (2016)
+http://6p.vc:80/movie/8896882871/8290570786/68067.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIiWJq4WPcTfaIH8VkVlU2irzXo.jpg",Uma Boa Ação (2012)
+http://6p.vc:80/movie/8896882871/8290570786/68068.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GcYtt8bbcpDGtc8q7bN1EvPZGZ.jpg",Uma Canção de Natal (2015)
+http://6p.vc:80/movie/8896882871/8290570786/68069.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIST6PWCDgQZ85dqRHcX9t34LMk.jpg",Uma Noite de Loucuras (1987)
+http://6p.vc:80/movie/8896882871/8290570786/68070.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWWZQIaOMjxaZoaehjtTM0vpBGd.jpg",Uma Noite de Natal (2015)
+http://6p.vc:80/movie/8896882871/8290570786/68071.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eGTPdY1hoGb99Ntcze0Kq7La0c.jpg",Uma Noite Mais que Louca (2011)
+http://6p.vc:80/movie/8896882871/8290570786/68072.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOQglSvPTifAVo41HUKmbt915u4.jpg",Uma Noite no Museu (2006)
+http://6p.vc:80/movie/8896882871/8290570786/68073.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nybhG2tnYNl2a8MpKFWml9SHl5.jpg",Uma Noite no Museu 2 (2009)
+http://6p.vc:80/movie/8896882871/8290570786/68074.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXUy4komfGJGAjc1JTAS7zaTK1.jpg",Uma Noite no Museu 3: O Segredo da Tumba (2014)
+http://6p.vc:80/movie/8896882871/8290570786/68075.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRAOj1G4YWEmK3zDN4JlYFqaeWA.jpg",Uma Quase Dupla (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68076.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t83mwPPC3mOp4V7NgWKMUuSzTwM.jpg",Uma Ressaca de 9 Meses (2016)
+http://6p.vc:80/movie/8896882871/8290570786/68077.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b0w6UUKtQf1C4HIdEl4oNqdGZa.jpg",Um Bom Ano (2006)
+http://6p.vc:80/movie/8896882871/8290570786/68078.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gULo1fF9IBa426fw7BQ4mZXqjgq.jpg",Um Conto Indiano (2017)
+http://6p.vc:80/movie/8896882871/8290570786/68079.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4Zkc9TQ8Yortb4aApxsblmByOj.jpg",Um Dia a Casa Cai (1986)
+http://6p.vc:80/movie/8896882871/8290570786/68080.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IG7rUmzM3pdZvWwBBLIwDfFVim.jpg",Um Espião e Meio (2016)
+http://6p.vc:80/movie/8896882871/8290570786/68082.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33AEqmGYY8Ia4EO5nCXiFsJlfnh.jpg",Um Herói de Brinquedo (1996)
+http://6p.vc:80/movie/8896882871/8290570786/68083.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHaX8IsPjnLZ6AqQW4pn6PV0CP.jpg",Um Lobisomem Americano em Londres (1981)
+http://6p.vc:80/movie/8896882871/8290570786/68085.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6TkeOXTOPecHk7E59Lk3SqENp0.jpg",Um Milhão de Maneiras de Pegar na Pistola (2014)
+http://6p.vc:80/movie/8896882871/8290570786/68086.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muFEE5wt6YyxDcz5PDYWlVHWjMr.jpg",Um Morto Muito Louco II (1993)
+http://6p.vc:80/movie/8896882871/8290570786/68088.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teQSBVgy689tFFBlUzESl59UXLu.jpg",Um Namorado Para Minha Mulher (2016)
+http://6p.vc:80/movie/8896882871/8290570786/68089.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Pb6hBcidfhxpAAA6iwznQjCO7h.jpg",Um Parto de Viagem (2010)
+http://6p.vc:80/movie/8896882871/8290570786/68090.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4tEfYSXFLl7qOXA7QwKF9R1qfV.jpg",Um Príncipe em Nova York (1988)
+http://6p.vc:80/movie/8896882871/8290570786/68091.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyUw1b0sLbqOoizUsoT1RcfdlG9.jpg",Um Salão do Barulho (2005)
+http://6p.vc:80/movie/8896882871/8290570786/68092.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDCnrDwUrYdDlCudvxp6AP0hWvD.jpg",Um Salão do Barulho 2 – Barbeiragem Total (2004)
+http://6p.vc:80/movie/8896882871/8290570786/68093.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Wis3WRAb8BjfSiz2ATMDBXFtpC.jpg",Um Salão do Barulho 3 (2016)
+http://6p.vc:80/movie/8896882871/8290570786/68094.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjI2z9PvWm69DHzhyYIrsmD6Gj6.jpg",Um Senhor Estagiário (2015)
+http://6p.vc:80/movie/8896882871/8290570786/68095.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFChpljQt82f9SnjJdXEQ0uYVd1.jpg",Um Suburbano Sortudo (2016)
+http://6p.vc:80/movie/8896882871/8290570786/68096.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3D3qLGXPbMLW6AxNHIZxcbZs21.jpg",Um Tio Quase Perfeito (2017)
+http://6p.vc:80/movie/8896882871/8290570786/68097.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jInjxzwR14AulEFYB6x9c9oBKS.jpg",Um Tira da Pesada (1984)
+http://6p.vc:80/movie/8896882871/8290570786/68098.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGG30UP6IYG7Lq0zSr6wRT2h3Ua.jpg",Um Tira da Pesada 2 (1987)
+http://6p.vc:80/movie/8896882871/8290570786/68099.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onNcraJY5jyFo0kWB3vrXptnfkE.jpg",Um Tira da Pesada III (1994)
+http://6p.vc:80/movie/8896882871/8290570786/68100.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmiaX4otZ78UyavaO24Ap1kNOF.jpg",Upa – Meu Monstro Favorito (2015)
+http://6p.vc:80/movie/8896882871/8290570786/68101.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGWszbTJRmQVJv98abEyfdLOsHh.jpg",Verão 2003 (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68102.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsNOVR6vTiRO3he42GAxJVyfv4V.jpg",Loucuras do Paraíso (2012)
+http://6p.vc:80/movie/8896882871/8290570786/68103.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV6gQxbH0ue0pMbrPBNBePT9WV6.jpg",Vizinhos (2014)
+http://6p.vc:80/movie/8896882871/8290570786/68104.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7fD88Zdowjcvd6IkwjD8ijxQ5P.jpg",Vizinhos 2 (2016)
+http://6p.vc:80/movie/8896882871/8290570786/68105.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5EnGaVBGt4tjznKjwv2vjE2Ouf.jpg",Vizinhos Nada Secretos (2016)
+http://6p.vc:80/movie/8896882871/8290570786/68106.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/in8pqzzRf7FzLtpU9FvPrznDtjU.jpg",Voando Alto (2019)
+http://6p.vc:80/movie/8896882871/8290570786/68107.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/it9QRBO1jmbAC2HC6Zd3Uk0mlMn.jpg",Vovó... Zona (2000)
+http://6p.vc:80/movie/8896882871/8290570786/68108.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/leb860dWWcsOqVPS3J6ApI1QOn9.jpg",Vovó... Zona 2 (2006)
+http://6p.vc:80/movie/8896882871/8290570786/68109.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfEAuK3Jec66AsccQBvGC2WAcw7.jpg",Vovó... Zona 3: Tal Pai Tal Filho (2011)
+http://6p.vc:80/movie/8896882871/8290570786/68110.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9VCm2E6gCAwbM2SELRawfqdXBO.jpg",Zerando a Vida (2016)
+http://6p.vc:80/movie/8896882871/8290570786/68111.mp4
+#EXTINF:-1 group-title="Filmes | Comédia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZs2fvVI8jZlu52p1j1PQHgddlC.jpg",Zoe e Raven: Os Doze Presentes de Natal (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68112.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFvFyuIeCZfu94pZzzhTm991397.jpg",A Balada de Buster Scruggs (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68899.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnnbMcHuytlxlof4nIjcCQ9UuUX.jpg",A Balada do Pistoleiro (1995)
+http://6p.vc:80/movie/8896882871/8290570786/68900.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0B331VlMnCmTrsLDQhtfEe8286.jpg",A Sombra de um Revolver (1965)
+http://6p.vc:80/movie/8896882871/8290570786/68902.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgPPqdMgOutIGmUnnhJi4uXgtrg.jpg",Banzé no Oeste (1974)
+http://6p.vc:80/movie/8896882871/8290570786/68903.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnGazdUxu0lfTB6XJNx0jFQ21UB.jpg",Bravura Indômita (1969)
+http://6p.vc:80/movie/8896882871/8290570786/68904.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6I5ONC2j3J8jZ0XMga1C3TusP1i.jpg",Dívida de Honra (2014)
+http://6p.vc:80/movie/8896882871/8290570786/68905.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkajqTm8wPqFsL1dlrbDtIvf5GH.jpg",E Agora Me Chamam O Magnífico (1972)
+http://6p.vc:80/movie/8896882871/8290570786/68907.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYzQvLsgOnxLU2ytkg2K3Hdoqcl.jpg",Em Busca da Justiça (2015)
+http://6p.vc:80/movie/8896882871/8290570786/68908.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34rLY9dKtTww4HFi0rDih8TnJmE.jpg",Era Uma vez no México (2003)
+http://6p.vc:80/movie/8896882871/8290570786/68909.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TNAQ2BQLcjoK5qIrInb5QGrReL.jpg",Gigantes em Luta (1967)
+http://6p.vc:80/movie/8896882871/8290570786/68910.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncHc81uGBw4PmsKfkFTJNCSKWgc.jpg",Hostis (2017)
+http://6p.vc:80/movie/8896882871/8290570786/68911.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwpD6suBvsqIgSVm7xyqeVQ21LI.jpg",Inferno no Faroeste (2013)
+http://6p.vc:80/movie/8896882871/8290570786/68912.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qCQLZWLRotE5BSUVMN4ZWSIshc.jpg",Inferno no Faroeste 2 (2017)
+http://6p.vc:80/movie/8896882871/8290570786/68913.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNf1qeHqTcHs7jREU6K7DNaWMx.jpg",Meu Ódio Será Sua Herança (1969)
+http://6p.vc:80/movie/8896882871/8290570786/68914.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faQtQdWlJAgrAPvpSqqs92fY6PV.jpg",O Assassinato de Jesse James pelo Covarde Robert Ford (2007)
+http://6p.vc:80/movie/8896882871/8290570786/68915.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOiYLsISfDd5sN74c4I0ilkiGQ8.jpg",O Regresso (2012)
+http://6p.vc:80/movie/8896882871/8290570786/68916.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfTo9U9OgOXODEEspNnYFuZdR1q.jpg",Os Oito Odiados (2015)
+http://6p.vc:80/movie/8896882871/8290570786/68918.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kN7Jcq39FJ7JNoO9JXP93aEyWVH.jpg",Resgate no Oeste (2016)
+http://6p.vc:80/movie/8896882871/8290570786/68920.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg",Sete Homens e Um Destino (2016)
+http://6p.vc:80/movie/8896882871/8290570786/68921.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSA7maO0olKMY16hwTiG6PCKOXq.jpg",Sob o Sol do Oeste (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68922.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQb12SlO2LgvQS6IyxOMCMsS1f7.jpg",Sua Última Façanha (1962)
+http://6p.vc:80/movie/8896882871/8290570786/68923.mp4
+#EXTINF:-1 group-title="Filmes | Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOUDR00zyiKoOSUwWAo5Dz1GuRI.jpg",Um Punhado de Chumbo (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68925.mp4
+#EXTINF:-1 group-title="Filmes | Animação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo5X9iM0gtvG63FAY3B4g5cMROT.jpg",A Bela Adormecida (2014)
+http://6p.vc:80/movie/8896882871/8290570786/68926.mp4
+#EXTINF:-1 group-title="Filmes | Infantis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59FPQDQWyiPhDJH06mUeOxU0Oo5.jpg",Barbie e as Sapatilhas Mágicas (2013)
+http://6p.vc:80/movie/8896882871/8290570786/68927.mp4
+#EXTINF:-1 group-title="Filmes | Infantis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zR0ts7zL2P1kQIQXYlnS4KCqqmu.jpg",Barbie e As Três Mosqueteiras (2009)
+http://6p.vc:80/movie/8896882871/8290570786/68928.mp4
+#EXTINF:-1 group-title="Filmes | Infantis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrD263RRyDPXqDY7FBtNP7gEuQZ.jpg",Barbie: Vida de Sereia (2010)
+http://6p.vc:80/movie/8896882871/8290570786/68929.mp4
+#EXTINF:-1 group-title="Filmes | Infantis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvjFM3GgYm3gDZ6Ulw0JurDYs4r.jpg",Barbie e o Castelo de Diamante (2008)
+http://6p.vc:80/movie/8896882871/8290570786/68930.mp4
+#EXTINF:-1 group-title="Filmes | Infantis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wn2aoYKOonwMNKkzfgO5y4ji8pB.jpg",Barbie e O Segredo das Fadas (2011)
+http://6p.vc:80/movie/8896882871/8290570786/68931.mp4
+#EXTINF:-1 group-title="Filmes | Animação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvmhEcqzN2bUZvEmEIh9SjhTkr6.jpg",Benji (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68932.mp4
+#EXTINF:-1 group-title="Filmes | Animação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l0dsoLXP2eifLQ0lFCYNC5Lcv0.jpg",Branca de Neve e os Sete Anões (1937)
+http://6p.vc:80/movie/8896882871/8290570786/68933.mp4
+#EXTINF:-1 group-title="Filmes | Infantis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIZRBnn8djbEvi8AI8MymPqqekl.jpg",Galinha Pintadinha 1 (2008)
+http://6p.vc:80/movie/8896882871/8290570786/68937.mp4
+#EXTINF:-1 group-title="Filmes | Infantis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5hyi7xnc8rjqpx9SRQLfWnScG4.jpg",Galinha Pintadinha 2 (2010)
+http://6p.vc:80/movie/8896882871/8290570786/68938.mp4
+#EXTINF:-1 group-title="Filmes | Infantis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dh5RAkisuHtTtd2lTzT52f1qHdB.jpg",Galinha Pintadinha 3 (2012)
+http://6p.vc:80/movie/8896882871/8290570786/68939.mp4
+#EXTINF:-1 group-title="Filmes | Infantis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lAOuS7QCT2jxWJbxNN7i1PTAdH.jpg",Galinha Pintadinha 4 (2014)
+http://6p.vc:80/movie/8896882871/8290570786/68940.mp4
+#EXTINF:-1 group-title="Filmes | Animação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6Z2zNkHZAH5yadT1f19hMCaNFJ.jpg",Manda-Chuva: O Filme (2011)
+http://6p.vc:80/movie/8896882871/8290570786/68941.mp4
+#EXTINF:-1 group-title="Filmes | Animação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZZDHukS9VOpicduVl8oR4imSSt.jpg",Masha e o Urso (2016)
+http://6p.vc:80/movie/8896882871/8290570786/68942.mp4
+#EXTINF:-1 group-title="Filmes | Animação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYZzutMXxvirK9gK01iLo3Blaj3.jpg",Meu Malvado Favorito (2010)
+http://6p.vc:80/movie/8896882871/8290570786/68943.mp4
+#EXTINF:-1 group-title="Filmes | Animação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mYMq6OQyum1wAiUI7i6w78YKEO.jpg",Meu Malvado Favorito 2 (2013)
+http://6p.vc:80/movie/8896882871/8290570786/68944.mp4
+#EXTINF:-1 group-title="Filmes | Animação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/InJSedsAjy5VUYkanrBFGZngI8.jpg",Meu Malvado Favorito 3 (2017)
+http://6p.vc:80/movie/8896882871/8290570786/68945.mp4
+#EXTINF:-1 group-title="Filmes | Animação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8g1P4sxOitwFaf3UBeT8n4F5sBy.jpg",O Retorno de Mary Poppins (2018)
+http://6p.vc:80/movie/8896882871/8290570786/68946.mp4
+#EXTINF:-1 group-title="Filmes | Animação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hb1dzrqAw8K98jdaLqYUYZsizfH.jpg",Pica-Pau: O Filme (2017)
+http://6p.vc:80/movie/8896882871/8290570786/68947.mp4
+#EXTINF:-1 group-title="Filmes | Animação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzvKfp1g07jHNBRYpi74kDsWGIQ.jpg",Zé Colmeia : O Filme (2010)
+http://6p.vc:80/movie/8896882871/8290570786/68948.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIzmRFJWjMiC0EgFu0kEjFFm221.jpg",47 Meters Down Uncaged [L]
+http://6p.vc:80/movie/8896882871/8290570786/69712.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doo45Z1rtyByhN69yfUsqtzeg7M.jpg",A Cinderella Story Christmas Wish [L]
+http://6p.vc:80/movie/8896882871/8290570786/69717.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wigZBAmNrIhxp2FNGOROUAeHvdh.jpg",Ad Astra - Rumo às Estrelas (2019) [L}
+http://6p.vc:80/movie/8896882871/8290570786/69718.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xG5JqCNR90WIjbGUfQNMDNMuRQl.jpg",A Dogs Journey [L]
+http://6p.vc:80/movie/8896882871/8290570786/69719.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d8HShFOmSWDwvqtvPEZqzlZbYl.jpg",Aladdin (2019) [L]
+http://6p.vc:80/movie/8896882871/8290570786/69720.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VxYsfaNTglHFL0hqgJGeXv0JOz.jpg",A Madea Family Funeral [L]
+http://6p.vc:80/movie/8896882871/8290570786/69722.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpHluiC5BuMSKT8IvkMcgPTWvYc.jpg",American Woman [L]
+http://6p.vc:80/movie/8896882871/8290570786/69723.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qinFqfMF2HrjplEK5uQliLyryAk.jpg",Angel Has Fallen [L]
+http://6p.vc:80/movie/8896882871/8290570786/69725.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQNQy78YGIO5DjxSJJEuCkzXaXw.jpg",Aniara [L]
+http://6p.vc:80/movie/8896882871/8290570786/69726.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJxG6anQWToaedaHiRxDIS4Wecs.jpg",Anna [L]
+http://6p.vc:80/movie/8896882871/8290570786/69727.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rksE4dbgoNMv0T3ba8zqWlftnP.jpg",Armstrong [L]
+http://6p.vc:80/movie/8896882871/8290570786/69729.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4rTp0xxFVXVj1DPwonXyWIfOd4.jpg",A Secret Love [L]
+http://6p.vc:80/movie/8896882871/8290570786/69731.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43CDkn63ctRbEPu0bmb61VWdauk.jpg",Ashfall [L]
+http://6p.vc:80/movie/8896882871/8290570786/69732.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9htSUqw1nxC6WwH9USeiSfya1.jpg",A Young Man With High Potential [L]
+http://6p.vc:80/movie/8896882871/8290570786/69733.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aINpljdt3VVMrCLtJW4BektwYOp.jpg",Babyteeth [L]
+http://6p.vc:80/movie/8896882871/8290570786/69734.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3UFAEzXsUc8Nu0748g5arct1vE.jpg",Ben Is Back [L]
+http://6p.vc:80/movie/8896882871/8290570786/69739.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3eHovwEDm8UUfCPQIvQDGXqRAt.jpg",Blaze [L]
+http://6p.vc:80/movie/8896882871/8290570786/69740.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uV0Mt7mkmt6uujYMqNdL6ceXPjz.jpg",Blinded By The Light [L]
+http://6p.vc:80/movie/8896882871/8290570786/69741.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9UfbDVilnhT3fa82aTFs3O0TsA.jpg",Bloodline [L]
+http://6p.vc:80/movie/8896882871/8290570786/69742.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luYROTGVSzPfn88Vo7ke9umhJWE.jpg",Bratstvo [L]
+http://6p.vc:80/movie/8896882871/8290570786/69744.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKfYKQQMNARXOgyf5ieVeGWlNQU.jpg",Brexit: The Uncivil War [L]
+http://6p.vc:80/movie/8896882871/8290570786/69746.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/debZGNmAjeXat4iLbRmmakXiFO7.jpg",Brian Banks [L]
+http://6p.vc:80/movie/8896882871/8290570786/69747.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Eu0GvET9ZihUJL5L0E9lgDQYzJ.jpg",Brightburn [L]
+http://6p.vc:80/movie/8896882871/8290570786/69748.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXCOELIgsRrHa3nMY69tN6XrEv6.jpg",Bulletproof 2 [L]
+http://6p.vc:80/movie/8896882871/8290570786/69749.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FcFLK1Cb4x3KDCjjpBPJuRWb7T.jpg",Can You Ever Forgive Me? [L]
+http://6p.vc:80/movie/8896882871/8290570786/69751.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg",Captain Marvel [L]
+http://6p.vc:80/movie/8896882871/8290570786/69753.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdjb2ienn6aojXyMGTJUiKsNmII.jpg",Charlie Says [L]
+http://6p.vc:80/movie/8896882871/8290570786/69755.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWyPivHZD7M3itErgedllY2Vfu8.jpg",Childs Play [L]
+http://6p.vc:80/movie/8896882871/8290570786/69756.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pgBw9pS1QXqR9rPzUsSUJZHN9e.jpg",Coyote Lake [L]
+http://6p.vc:80/movie/8896882871/8290570786/69759.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTuWXVgtbzJ29xlwPwk6PaWfZey.jpg",Dads [L]
+http://6p.vc:80/movie/8896882871/8290570786/69760.mp4
+#EXTINF:-1 group-title="Filmes | Legendados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aB1rCWGMsM2mm1kBDleaPkqUCFo.jpg",Danger Close: The Battle of Long Tan [L]
+http://6p.vc:80/movie/8896882871/8290570786/69762.mp4
 
