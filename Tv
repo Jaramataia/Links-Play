@@ -33,18 +33,12 @@ http://168.205.87.198:8555/live/shirley/123456/70.ts
 https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8
 #EXTINF:-1 group-title="ABERTO",Band Pará - RBA TV
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 group-title="ABERTO",Band Natal
-http://170.80.157.9:8000/play/a01e
 #EXTINF:-1 group-title="ABERTO",RedeTV! Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:-1 group-title="ABERTO",RecordTV HDTV
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 #EXTINF:-1 group-title="ABERTO",TV Tropical
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
-#EXTINF:-1 group-title="ABERTO",SBT Tv Ponta Negra RN
-http://170.80.157.9:8000/play/a055
-#EXTINF:-1 group-title="ABERTO",TV Grande Natal
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 group-title="ABERTO" ,TV Assembleia RN
 http://177.54.149.15:1935/assembleiarn/assembleiarn/playlist.m3u8
 #EXTINF:-1 group-title="ABERTO" ,TV CN Agitos RN
@@ -52,8 +46,6 @@ http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 #EXTINF:-1 group-title="ABERTO" ,TV Caico RN
 https://stmv1.paineltv.net/wladimyr7277/wladimyr7277/chunklist_w1880574896.m3u8
 #EXTINF:-1 group-title="ABERTO" ,TV Seridor RN
-https://srv1.video.xradios.com.br/tvseridorn/tvseridorn/chunklist_w1495752899.m3u8
-#EXTINF:-1 group-title="ABERTO" ,TV Diário CE
 https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZS3VIJq0baroDKP0ZXoQx1sfpp-aiPP6s53v3Q8bsE6p)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
 #EXTINF:-1 group-title="ABERTO",SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -165,10 +157,6 @@ https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8?ads.wurl_channel=544&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="NOTICIAS",Foro TV | México
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
-#EXTINF:-1 group-title="NOTICIAS",France 24 em espanhol 2
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 group-title="NOTICIAS",France 24 em espanhol 3
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="NOTICIAS",TVE 24h | Espanha
 https://rtvelivestreamv3.akamaized.net/24h/24h_main.m3u8
 #EXTINF:-1 group-title="ESPORTE",Lucha Libre AAA | Argentina
@@ -179,4 +167,3 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
 #EXTINF:-1 group-title="ESPORTE",Velocidad​ | Argentina - Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11b5b1b3-ad58-40ca-90fc-9a19b7125ebc&userId=&serverSideAds=true
-
