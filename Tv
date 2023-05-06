@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="BBB 2023",BBB 2023 1 4K
-http://mn.appserv19.xyz:2095/live/Xplus-1-mbVsOeMsPy/VZSdImkFyE/1124.m3u8
-#EXTINF:-1 group-title="BBB 2023",BBB 2023 1 HD
-http://mn.appserv19.xyz:2095/live/Xplus-1-mbVsOeMsPy/VZSdImkFyE/1123.m3u8
-#EXTINF:-1 group-title="BBB 2023",BBB ACADEMIA
-http://mn.appserv19.xyz:2095/live/Xplus-1-mbVsOeMsPy/VZSdImkFyE/1140.m3u8
-#EXTINF:-1 group-title="BBB 2023",BBB CAMAROTE E PIPOCA
-http://mn.appserv19.xyz:2095/live/Xplus-1-mbVsOeMsPy/VZSdImkFyE/1148.m3u8
-#EXTINF:-1 group-title="BBB 2023",BBB CONFESSIONARIO
-http://mn.appserv19.xyz:2095/live/Xplus-1-mbVsOeMsPy/VZSdImkFyE/1150.m3u8
-#EXTINF:-1 group-title="BBB 2023",BBB COZINHA
-http://mn.appserv19.xyz:2095/live/Xplus-1-mbVsOeMsPy/VZSdImkFyE/1141.m3u8
-#EXTINF:-1 group-title="BBB 2023",BBB JARDIM
-http://mn.appserv19.xyz:2095/live/Xplus-1-mbVsOeMsPy/VZSdImkFyE/1142.m3u8
-#EXTINF:-1 group-title="BBB 2023",BBB MOSAICO
-http://mn.appserv19.xyz:2095/live/Xplus-1-mbVsOeMsPy/VZSdImkFyE/1143.m3u8
-#EXTINF:-1 group-title="BBB 2023",BBB PISCINA
-http://mn.appserv19.xyz:2095/live/Xplus-1-mbVsOeMsPy/VZSdImkFyE/1144.m3u8
-#EXTINF:-1 group-title="BBB 2023",BBB QUARTO DESERTO
-http://mn.appserv19.xyz:2095/live/Xplus-1-mbVsOeMsPy/VZSdImkFyE/1145.m3u8
-#EXTINF:-1 group-title="BBB 2023",BBB QUARTO FUNDO DO MAR
-http://mn.appserv19.xyz:2095/live/Xplus-1-mbVsOeMsPy/VZSdImkFyE/1146.m3u8
-#EXTINF:-1 group-title="BBB 2023",BBB SALA
-http://mn.appserv19.xyz:2095/live/Xplus-1-mbVsOeMsPy/VZSdImkFyE/1147.m3u8
-#EXTINF:-1 group-title="BBB 2023",BBB VARANDA
-http://mn.appserv19.xyz:2095/live/Xplus-1-mbVsOeMsPy/VZSdImkFyE/1139.m3u8
 #EXTINF:-1 group-title="ABERTO",Globo
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 #EXTINF:-1 group-title="ABERTO",Globo Minas HD
