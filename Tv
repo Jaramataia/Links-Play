@@ -1,4 +1,26 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 01
+http://5ce.co:80/live/Gustavo2023H/7175pv658/230366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 02
+http://5ce.co:80/live/Gustavo2023H/7175pv658/230368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 03
+http://5ce.co:80/live/Gustavo2023H/7175pv658/230369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 04
+http://5ce.co:80/live/Gustavo2023H/7175pv658/230370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 05
+http://5ce.co:80/live/Gustavo2023H/7175pv658/230371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 06
+http://5ce.co:80/live/Gustavo2023H/7175pv658/230372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 07" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 07
+http://5ce.co:80/live/Gustavo2023H/7175pv658/236733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 08" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 08
+http://5ce.co:80/live/Gustavo2023H/7175pv658/236734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 09" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 09
+http://5ce.co:80/live/Gustavo2023H/7175pv658/236735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 10" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 10
+http://5ce.co:80/live/Gustavo2023H/7175pv658/236736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 11" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 11
+http://5ce.co:80/live/Gustavo2023H/7175pv658/236737.m3u8
 #EXTINF:-1 group-title="ABERTO",Globo 
 http://mn.appserv19.xyz:2095/live/Xplus-1-jlhgG54gR1/Y1OoSYnQix/495.m3u8
 #EXTINF:-1 group-title="ABERTO",Globo
