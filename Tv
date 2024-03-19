@@ -1,10 +1,31 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="ABERTO",Globo 
-http://mn.appserv19.xyz:2095/live/Xplus-1-jlhgG54gR1/Y1OoSYnQix/495.m3u8
-#EXTINF:-1 group-title="ABERTO",Globo
+
+#EXTINF:-1 group-title="ABERTO",Globo SP 
+https://8mwx.short.gy/GLOBOSP/index.m3u8
+
+#EXTINF:-1 group-title="ABERTO",Globo SP 
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 group-title="ABERTO",Globo SP 
+http://hls1.sua.tv/live/globosphd/s.m3u8
+
+#EXTINF:-1 group-title="ABERTO",Globo RJ 
+https://8mwx.short.gy/GLOBORJ/index.m3u8
+
+#EXTINF:-1 group-title="ABERTO",Globo RNSC TV Florianopolis
+https://8mwx.short.gy/NSCTVSC/index.m3u8
+
+#EXTINF:-1 group-title="ABERTO",Globo RBS TV Porto Alegre
+https://8mwx.short.gy/RBSTV/index.m3u8
+
+#EXTINF:-1 group-title="ABERTO",Globo RPC Curitiba
+https://8mwx.short.gy/RPCPR/index.m3u8
+
+#EXTINF:-1 group-title="ABERTO",Globo Bahia Salvador
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
-#EXTINF:-1 group-title="ABERTO",Globo Minas HD
-http://168.205.87.198:8555/live/shirley/123456/70.ts
+
+#EXTINF:-1 group-title="ABERTO",Globo TV Tem Sorocaba
+http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
 #EXTINF:-1 group-title="ABERTO",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1982296720.m3u8
 #EXTINF:-1 group-title="ABERTO",Band Pará - RBA TV
