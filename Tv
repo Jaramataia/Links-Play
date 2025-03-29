@@ -1,5 +1,8 @@
 ﻿#EXTM3U
-
+#EXTINF:-1 group-title="ABERTO",GLOBO DF
+http://xc.tvdecasa.top:80/live/Formigatv/266585/1541654.m3u8
+#EXTINF:-1 group-title="ABERTO",BAND 
+http://xc.tvdecasa.top:80/live/Formigatv/266585/948295.m3u8
 #EXTINF:-1 group-title="ABERTO",BAND GO
 https://live-stream.gsnoticias.net.br/live/live-goiania.flv
 #EXTINF:-1 group-title="ABERTO",Record TV RN
